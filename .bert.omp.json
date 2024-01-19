@@ -36,7 +36,7 @@
           "background": "#6CA35E",
           "display_mode": "files",
           "fetch_package_manager": true,
-          "template": " \ue718 {{ if .PackageManagerIcon }}{{ .PackageManagerIcon }} {{ end }}{{ .Major }}"
+          "template": " \ue718 {{ if .PackageManagerIcon }}{{ .PackageManagerIcon }} {{ end }}{{ .Full }}"
         },
         {
           "type": "terraform",
