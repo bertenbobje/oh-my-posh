@@ -104,6 +104,7 @@
           "style": "plain",
           "foreground": "p:green",
           "background": "transparent",
+          "template": " ",
           "properties": {
             "display_mode": "files",
             "fetch_package_manager": false,
