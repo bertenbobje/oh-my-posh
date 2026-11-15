@@ -29,6 +29,18 @@
           }
         },
         {
+          "type": "dotnet",
+          "style": "powerline",
+          "powerline_symbol": "",
+          "foreground": "#ffffff",
+          "background": "#512BD4",
+          "template": "  {{ .Major }}",
+          "properties": {
+            "display_mode": "always",
+            "home_enabled": false
+          }
+        },
+        {
           "type": "node",
           "style": "powerline",
           "powerline_symbol": "\ue0b0",
@@ -202,3 +214,4 @@
     "yellow": "#F3AE35"
   }
 }
+
